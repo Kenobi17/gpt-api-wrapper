@@ -1,4 +1,4 @@
-# **ChatGPT API Wrapper Documentation**
+# **ChatGPT API Wrapper **
 
 ## **Table of Contents**
 
